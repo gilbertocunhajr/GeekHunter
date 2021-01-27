@@ -22,11 +22,6 @@ excluiItemConta('bebidas')
 excluiItemConta('reserva')
 
 
-
-console.log(itens)
-console.log(itensFora)
-
-
 let valorexcluir = 0
 let total = 0
 
