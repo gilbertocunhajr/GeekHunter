@@ -1,5 +1,4 @@
 let pessoas = 4 
-let numitens=5
 let itensFora = []
 let itens = []
 
@@ -16,6 +15,7 @@ adicionaItem('bebidas',150)
 adicionaItem('entrada',100)
 adicionaItem('principal',400)
 adicionaItem('sobremesa',300)
+adicionaItem('café',30)
 adicionaItem('reserva',40)
 
 excluiItemConta('bebidas')
